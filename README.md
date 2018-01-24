@@ -1,4 +1,4 @@
-# Windows/python-ethereum-management-toolset
+# python-ethereum-management-toolset
 Tools to control and manage ethereum accounts
 
 this includes tools from https://github.com/corpetty/py-etherscan-api (corpetty) and https://github.com/antonio-fr/Vanityreum (antonio-fr)
