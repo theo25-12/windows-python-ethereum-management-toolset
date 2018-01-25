@@ -8,3 +8,7 @@ Note: after addr.txt file is generated it will still need to be cleaned up in or
 Note: add your api key from etherscan.io to api.json as stated by corpetty.
   example:
     { 'key' : 'your_key' }
+
+
+Please consider donating:
+ETH: 0x80EbF795f3920105308aAD62d5c3CDfDb9dCEAb0
